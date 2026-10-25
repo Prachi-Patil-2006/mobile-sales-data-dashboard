@@ -13,17 +13,17 @@ The dashboard provides a comprehensive overview of key sales metrics and helps i
 !Mobile Sales Data Dashboard
 
 # ✨ Key Features
-! Total Sales: Track overall revenue generated from mobile sales.
-! Total Quantity: Monitor the total number of units sold.
-! Transactions: Analyze the total number of sales transactions.
-! Average Sales: View the average sales metric displayed on the dashboard.
-! Monthly Sales Trends: Compare sales performance across all 12 months.
-! City-Wise Analysis: Visualize sales distribution across cities.
-! Mobile Model Comparison: Compare sales across different mobile models.
-! Payment Method Analysis: Understand transactions by credit card, UPI, debit card, and cash.
-! Customer Ratings: Analyze sales distribution by customer ratings.
-! Day-Wise Sales: Identify sales patterns across different days of the week.
-! Interactive Filters: Filter results by mobile model, payment method, brand, and day name.
+Total Sales: Track overall revenue generated from mobile sales.
+Total Quantity: Monitor the total number of units sold.
+Transactions: Analyze the total number of sales transactions.
+Average Sales: View the average sales metric displayed on the dashboard.
+Monthly Sales Trends: Compare sales performance across all 12 months.
+City-Wise Analysis: Visualize sales distribution across cities.
+Mobile Model Comparison: Compare sales across different mobile models.
+Payment Method Analysis: Understand transactions by credit card, UPI, debit card, and cash.
+Customer Ratings: Analyze sales distribution by customer ratings.
+Day-Wise Sales: Identify sales patterns across different days of the week.
+Interactive Filters: Filter results by mobile model, payment method, brand, and day name.
 
 # Tools & Technologies
 Data Visualization
